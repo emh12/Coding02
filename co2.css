@@ -6,3 +6,7 @@ Purpose: Style sheet for hello world page
 h1 {
   color: red;
 }
+
+h1.italic {
+  font-style: italic;
+}
