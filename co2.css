@@ -4,5 +4,5 @@ Assignment: 02
 Purpose: Style sheet for hello world page
 ***********************************************************/
 h1 {
-
+  color: red;
 }

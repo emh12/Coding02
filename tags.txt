@@ -1,9 +1,0 @@
-Erika Menze
-<!DOCTYPE html> is the declaration of the file type
-<html> define the body of html in the document
-<head> tags are for the header
-<title> are for the title
-<body> is for the body
-<br> is for a line break
-<center> is to center text
-<h1> is for the first heading
